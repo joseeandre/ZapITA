@@ -1,0 +1,24 @@
+[
+    {
+        "CODE": "BRCR11 BZ EQUITY",
+        "DATE": "2020-05-05",
+        "UNADJUSTED_PREV_LAST_PRICE": 91.87,
+        "MARKET_STATUS": "ACTV",
+        "TRADE_STATUS": "Y",
+        "TAX_ID": null,
+        "ID_ISIN": "BRBRCRCTF000",
+        "EQY_FLOAT": 19.2245,
+        "EQY_SH_OUT": 19.225
+    },
+    {
+        "CODE": "MXRF11 BZ EQUITY",
+        "DATE": "2020-05-05",
+        "UNADJUSTED_PREV_LAST_PRICE": 9.99,
+        "MARKET_STATUS": "ACTV",
+        "TRADE_STATUS": "Y",
+        "TAX_ID": "97.521.225/0001-25",
+        "ID_ISIN": "BRMXRFCTF008",
+        "EQY_FLOAT": null,
+        "EQY_SH_OUT": 75.381
+    }
+]

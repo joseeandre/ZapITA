@@ -1,0 +1,5 @@
+Generic single-database configuration.
+
+alembic -c alembic.ini revision --autogenerate -m "First Migration"
+
+alembic -c alembic.ini downgrade -1
